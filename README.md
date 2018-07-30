@@ -1,8 +1,8 @@
 ## Daily-react-054-water-app
 
-> Challenge: create a tic-tac-toe game.
+> Challenge: create a daily water intake monitor app.
 
-My ongoing submission: https://github.com/jamal7x7/daily-react-054-water-app
+Work in progress: https://github.com/jamal7x7/daily-react-054-water-app
 
 
 Roadmap:
